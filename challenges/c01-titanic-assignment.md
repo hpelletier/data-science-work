@@ -1,7 +1,7 @@
 RMS Titanic
 ================
-(Your name here)
-2020-
+Haley Pelletier
+2020-07-16
 
   - [Grading Rubric](#grading-rubric)
       - [Individual](#individual)
